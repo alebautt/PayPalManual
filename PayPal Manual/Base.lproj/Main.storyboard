@@ -15,7 +15,7 @@
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="wpU-or-3bv" userLabel="btnPay">
                                 <rect key="frame" x="143" y="294" width="46" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <autoresizingMask key="autoresizingMask"/>
                                 <state key="normal" title="Pagar"/>
                                 <connections>
                                     <action selector="btnPay:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pln-sd-KJs"/>

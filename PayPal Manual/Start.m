@@ -121,5 +121,4 @@
     // and give the user their goods or services. If the server is not reachable, save
     // the confirmation and try again later.
 }
-
 @end
