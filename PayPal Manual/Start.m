@@ -56,7 +56,7 @@
     PayPalPayment *payment = [[PayPalPayment alloc] init];
     
     // Amount, currency, and description
-    payment.amount = [[NSDecimalNumber alloc] initWithString:@"1.95"];
+    payment.amount = [[NSDecimalNumber alloc] initWithString:@"400.95"];
     payment.currencyCode = @"MXN";
     payment.shortDescription = @"BLUSA TLAHUI";
     
