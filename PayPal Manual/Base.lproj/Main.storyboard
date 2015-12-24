@@ -14,15 +14,16 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="wpU-or-3bv" userLabel="btnPay">
-                                <rect key="frame" x="143" y="294" width="46" height="30"/>
+                                <rect key="frame" x="109" y="194" width="103" height="48"/>
                                 <autoresizingMask key="autoresizingMask"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="Pagar"/>
                                 <connections>
                                     <action selector="btnPay:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pln-sd-KJs"/>
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="0.93996292352676392" green="0.83239507675170898" blue="0.74371582269668579" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
